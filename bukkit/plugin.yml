@@ -1,0 +1,3 @@
+name: TestPlugin
+main: com.github.cdn60127.TestPlugin.TestPlugin
+version: 1.00
